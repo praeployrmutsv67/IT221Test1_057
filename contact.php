@@ -9,12 +9,12 @@
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
         <tr>
-            <td width="1007" bgcolor="#FFFFFF">
+            <td width="1007" bgcolor="#44ff00ff">
                 <img src="images/map.gif">
             </td>
-            <td width="190" bgcolor="#FFFF66"><ul>
+            <td width="190" bgcolor="#0004ffff"><ul>
 				<li><a href="home.php">หน้าแรก</li>
-				<li><a href="room.php">ห้องพัก&ราคา</li>
+				<li><a href="room.php">ห้องพัก&ราคากันเอง</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อสอบถาม</li>
 				</ul><p>
